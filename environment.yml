@@ -1,0 +1,11 @@
+name: cancer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - networkx
+  - numpy
+  - PIL
+prefix: /Volumes/MY_PASSPORT/JRF/cancer_genome/cancer
